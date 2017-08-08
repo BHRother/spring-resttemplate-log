@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  context-path: /spring-resttemplate-log
+
+users:
+  url: http://localhost:${server.port}${server.context-path}/users
