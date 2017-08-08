@@ -1,6 +1,6 @@
 # Spring Boot + Rest Template full logging
 
-This example shows how to log all the requests/responses from a RestTempalte call.
+This example shows how to log all the requests/responses from a Rest Template call.
 
 ## About the example
 
